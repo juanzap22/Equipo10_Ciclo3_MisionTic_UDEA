@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 14, 2021 at 09:56 PM
+-- Generation Time: Sep 14, 2021 at 10:08 PM
 -- Server version: 10.4.20-MariaDB
 -- PHP Version: 8.0.9
 
@@ -98,16 +98,10 @@ ALTER TABLE `administradordeventas`
   ADD CONSTRAINT `administradordeventas_ibfk_1` FOREIGN KEY (`IDVendedor`) REFERENCES `gestionvendedores` (`IDVendedor`);
 
 --
--- Constraints for table `gestionusuarios`
---
-ALTER TABLE `gestionusuarios`
-  ADD CONSTRAINT `gestionusuarios_ibfk_1` FOREIGN KEY (`IDUsuario`) REFERENCES `gestionvendedores` (`IDVendedor`);
-
---
 -- Constraints for table `gestionvendedores`
 --
 ALTER TABLE `gestionvendedores`
-  ADD CONSTRAINT `gestionvendedores_ibfk_1` FOREIGN KEY (`IDVendedor`) REFERENCES `administradordeventas` (`IDVendedor`);
+  ADD CONSTRAINT `gestionvendedores_ibfk_1` FOREIGN KEY (`IDVendedor`) REFERENCES `gestionusuarios` (`IDUsuario`);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
