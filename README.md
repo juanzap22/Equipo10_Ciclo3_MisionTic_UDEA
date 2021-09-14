@@ -17,4 +17,8 @@ Aplicación de software que permita controlar las ventas físicas y virtuales de
 
 Este módulo hará la integración de los demás módulos del sistema para garantizar que los roles de los usuarios se ajusten a las distintas opciones de cada menú o formulario. Se contempla la identificación y el desarrollo de los casos de uso relacionados con la seguridad, así como el análisis de requisitos y el diseño del módulo.
 
+<<<<<<< HEAD
 ● Gestión de usuarios y roles. Deberá contener un identificador único del usuario, el nombre y el rol en el sistema de información (vendedor, administrador, ejecutivo, operario, director, gerente comercial) con el fin de restringir/otorgar accesos al sistema de información.
+=======
+● Gestión de usuarios y roles. Deberá contener un identificador único del usuario, el nombre y el rol en el sistema de información (vendedor, administrador, ejecutivo, operario, director, gerente comercial) con el fin de restringir/otorgar accesos al sistema de información.
+>>>>>>> origin/develop/diego_medina
