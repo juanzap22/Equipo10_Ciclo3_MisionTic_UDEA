@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 14, 2021 at 09:29 PM
+-- Generation Time: Sep 14, 2021 at 09:36 PM
 -- Server version: 10.4.20-MariaDB
 -- PHP Version: 8.0.9
 
@@ -20,6 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `comercioyusuarios`
 --
+CREATE DATABASE IF NOT EXISTS `comercioyusuarios` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `comercioyusuarios`;
 
 -- --------------------------------------------------------
 
