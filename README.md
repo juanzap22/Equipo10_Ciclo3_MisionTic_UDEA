@@ -6,10 +6,13 @@ Repositorio Equipo 10 - Ciclo 3
   
 ● Juan Diego Medina Rojas (develop/diego_medina)
   https://github.com/joavegaco/Equipo10_Ciclo3_MisionTic_UDEA/tree/develop/diego_medina
+  
 ● Andrés Téllez Guzmán (develop/Andres_Tellez)
   https://github.com/joavegaco/Equipo10_Ciclo3_MisionTic_UDEA/tree/develop/Andres_Tellez
+  
 ● Johan Arley Vega Corredor (develop/JohanVega)
   https://github.com/joavegaco/Equipo10_Ciclo3_MisionTic_UDEA/tree/develop/JohanVega
+  
 ● Juan David Zapata Londoño
   
   
