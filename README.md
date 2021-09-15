@@ -1,6 +1,21 @@
-# Proyecto-Equipo-10---Ciclo-3-Misi-n-TIC-Udea-
+# Proyecto-Equipo-10 - Ciclo 3 - MisiónTIC - UDEA
 Repositorio Equipo 10 - Ciclo 3
 
+# Equipo de desarrollo
+● Juan Diego Bedoya Tabares
+  
+● Juan Diego Medina Rojas (develop/diego_medina)
+  https://github.com/joavegaco/Equipo10_Ciclo3_MisionTic_UDEA/tree/develop/diego_medina
+  
+● Andrés Téllez Guzmán (develop/Andres_Tellez)
+  https://github.com/joavegaco/Equipo10_Ciclo3_MisionTic_UDEA/tree/develop/Andres_Tellez
+  
+● Johan Arley Vega Corredor (develop/JohanVega)
+  https://github.com/joavegaco/Equipo10_Ciclo3_MisionTic_UDEA/tree/develop/JohanVega
+  
+● Juan David Zapata Londoño
+  
+  
 # Información del proyecto
 
 Aplicación de software que permita controlar las ventas físicas y virtuales de una empresa de manufactura y hacerles el correspondiente seguimiento.
