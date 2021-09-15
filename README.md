@@ -2,7 +2,8 @@
 Repositorio Equipo 10 - Ciclo 3
 
 # Equipo de desarrollo
-● Juan Diego Bedoya Tabares
+● Juan Diego Bedoya Tabares (develop/diego_bedoya)
+  https://github.com/joavegaco/Equipo10_Ciclo3_MisionTic_UDEA/tree/develop/diego_bedoya
   
 ● Juan Diego Medina Rojas (develop/diego_medina)
   https://github.com/joavegaco/Equipo10_Ciclo3_MisionTic_UDEA/tree/develop/diego_medina
