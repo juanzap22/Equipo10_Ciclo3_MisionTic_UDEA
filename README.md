@@ -15,7 +15,7 @@ Repositorio Equipo 10 - Ciclo 3
   https://github.com/joavegaco/Equipo10_Ciclo3_MisionTic_UDEA/tree/develop/JohanVega
   
 ● Juan David Zapata Londoño
-  
+  https://github.com/joavegaco/Equipo10_Ciclo3_MisionTic_UDEA/tree/develop/juanzap22
   
 # Información del proyecto
 
